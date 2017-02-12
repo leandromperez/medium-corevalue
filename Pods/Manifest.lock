@@ -1,0 +1,19 @@
+PODS:
+  - CoreValue (0.3.0)
+  - Dip (5.0.4)
+  - Dip-UI (1.0.2):
+    - Dip (~> 5.0)
+
+DEPENDENCIES:
+  - CoreValue
+  - Dip
+  - Dip-UI
+
+SPEC CHECKSUMS:
+  CoreValue: 3186d8eb6001247b83cc0efd5d50258c5986d6a0
+  Dip: 6460091adcf84ae8765f4927b85b49e6a3b67bfe
+  Dip-UI: 7f03e0bc332fdda3cdf1d9a05125e5f30374dff1
+
+PODFILE CHECKSUM: 790e09c9961e6a5bec2b9a640e4ee9f2ad439cc7
+
+COCOAPODS: 1.1.1

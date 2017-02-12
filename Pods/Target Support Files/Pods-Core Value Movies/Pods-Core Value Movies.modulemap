@@ -1,0 +1,6 @@
+framework module Pods_Core_Value_Movies {
+  umbrella header "Pods-Core Value Movies-umbrella.h"
+
+  export *
+  module * { export * }
+}

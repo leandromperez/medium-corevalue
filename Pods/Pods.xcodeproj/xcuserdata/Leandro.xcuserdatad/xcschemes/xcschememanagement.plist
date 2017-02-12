@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CoreValue.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Dip-UI.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Dip.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Core Value Movies.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Core Value MoviesTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>07A21E3A39E3AFD56C4E816D4E3BB5D4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>119BB3D2C46A17F41EDA550F39CDCF50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>39CFF512322B2529624DBBC53A1AB3B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA010989BA56B7654B100A2D67B65708</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F3B46F7062BBDCEF0CCDDEFAC5C4686E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
